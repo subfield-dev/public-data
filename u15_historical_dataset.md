@@ -6,6 +6,16 @@ The Relational Academia (RA) dataset is the most comprehensive longitudinal data
 
 RA documents faculty careers from **1977 to 2018**, offering a four-decade view of institutional hiring, faculty mobility, and the distribution of doctoral training across Canadian and international universities.
 
+## Data Release
+
+The RA dataset will be made publicly available in **Summer 2025**. The release will include:
+- Cleaned CSV files  
+- A data dictionary and codebook  
+- Basic summary statistics and visualizations  
+- Sample scripts for longitudinal and network analysis
+
+Stay tuned for updates through this repository, or contact [f.lachapelle@proton.me](mailto:f.lachapelle@proton.me) with questions or to get on the release notification list.
+
 ## Coverage
 
 - **Universities:** All 15 U15 member universities across Canada
