@@ -16,7 +16,7 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material
 
 - **Non-commercial use only.**
-- 
+
 ## Conditions
 
 You must:
