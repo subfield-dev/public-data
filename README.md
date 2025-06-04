@@ -6,7 +6,22 @@ Publicly available dataset shared for research and reuse.
 
 Copyright subfield.dev, 2025
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## What you can do
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+- **Non-commercial use only.**
+- 
+## Conditions
+
+You must:
+- **Give appropriate credit**, provide a link to the license, and indicate if changes were made
+- **Not use the material for commercial purposes**
 
 ## Attribution
 
