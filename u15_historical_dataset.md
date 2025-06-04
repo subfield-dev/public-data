@@ -42,6 +42,35 @@ Stay tuned for updates through this repository, or contact [f.lachapelle@proton.
 - Captures changing trends in Canadian-trained vs. foreign-trained hires.
 - Enables network analysis of PhD placement and academic prestige.
 
+## Data Collection
+
+Data was collected using a combination of archival research and online research. At each 10-year interval (**1977–78**, **1987–88**, **1997–98**, **2007–08**, and **2017–18**), we identified full-time faculty members in five social science disciplines across Canada’s U15 universities.
+
+### Sources & Methods
+
+- Systematic review of **academic calendars**, **archived faculty directories**, and **departmental listings** in physical, microfiche, and digital formats  
+- Manual data collection for cases with missing educational information using the **Internet Archive (Wayback Machine)**, **ProQuest dissertations**, **university press releases**, and publicly available **CVs** and **faculty bios**
+
+### Collected Variables
+
+Each faculty record includes:
+- Academic rank (assistant, associate, full professor)
+- Degree history (bachelor's, master's, PhD — including institution names)
+- Disciplinary affiliation
+- Employer institution and collection year
+
+### Inclusion Criteria
+
+Faculty were included only if they:
+- Held a **full-time appointment**
+- Were listed under one of the five targeted disciplines:
+  - Anthropology  
+  - Economics  
+  - Political Science  
+  - Psychology  
+  - Sociology  
+- Were employed at a U15 university during the given collection year
+
 ## U15 Universities by Province
 
 ### Alberta
