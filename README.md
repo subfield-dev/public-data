@@ -1,2 +1,2 @@
 # public-data
-Publicly available dataset shared for research, and reuse
+Publicly available dataset shared for research, and reuse.
